@@ -1,1 +1,1 @@
-# BankingSystem
+# SGMBankingSystem
